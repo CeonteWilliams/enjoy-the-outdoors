@@ -11,4 +11,15 @@ main > div {
 select {
     margin-top: 5rem;
     margin-bottom: 2rem;
+  
+    
 }
+body{
+    background-color: pink;
+}
+.card{
+    margin: auto;
+    width: 50rem;
+    height: 40rem;
+    font-size: large;
+  }
