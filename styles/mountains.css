@@ -1,9 +1,6 @@
-main {
-    display: flex;
-    justify-content: center;
-}
 
-main > div {
+
+ div {
     width: 80vw; 
     margin: auto;
 }
@@ -17,9 +14,3 @@ select {
 body{
     background-color: pink;
 }
-.card{
-    margin: auto;
-    width: 50rem;
-    height: 40rem;
-    font-size: large;
-  }

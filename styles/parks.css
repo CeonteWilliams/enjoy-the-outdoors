@@ -1,9 +1,6 @@
-main {
-    display: flex;
-    justify-content: center;
-}
 
-main > div {
+
+ div {
     width: 80vw; 
     margin: auto;
 }
@@ -11,8 +8,17 @@ main > div {
 select {
     margin-top: 5rem;
     margin-bottom: 2rem;
-
+padding: 50rem;
 }
 body{
     background-color: orange;
+ 
 }
+
+.select,.card{
+    margin: auto;
+    width: 50rem;
+    height: 10rem;
+    font-size: large;
+
+  }

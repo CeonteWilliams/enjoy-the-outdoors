@@ -39,7 +39,7 @@ function renderactivitycard(event) {
                 <div class="card">
                   <h5 class="card-header">${mountain.name}</h5>
                   <div class="card-body">
-                       <h5 class="card-title">Where? <em>${mountain.desc}</em></h5>
+                       <h5 class="card-title"> <em>${mountain.desc}</em></h5>
                        <p class="card-text">${mountain.elevation}</p>
                        <img src="/data/images/${mountain.img}" alt="image">
                      
