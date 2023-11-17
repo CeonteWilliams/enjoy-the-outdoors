@@ -47,7 +47,7 @@ function createactivitycard(event) {
                   <div class="card-body">
                        <h5 class="card-title"> <em>${location.Address}</em></h5>
                        <p class="card-text">${location.City}</p>
-                       <a href="#" class="btn btn-primary"> visit site </a>
+                       <a href="#" class="btn btn-primary"> visit link </a>
                     </div>
                 </div>
             `
@@ -58,7 +58,7 @@ function createactivitycard(event) {
               <div class="card-body">
                   <h5 class="card-title"> <em>${location.Address}</em></h5>
                    <p class="card-text">${location.City}</p>
-                   <a href="#" class="btn btn-primary"> visit site </a>
+                  <a href="#" class="btn btn-primary"> visit link </a>
                 </div>
             </div>
         `
